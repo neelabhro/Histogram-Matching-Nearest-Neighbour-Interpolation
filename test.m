@@ -40,9 +40,6 @@ M
 
 
 %%
-
-%Neelabhro Roy
-%2016171
 clear;
 clc;
 
